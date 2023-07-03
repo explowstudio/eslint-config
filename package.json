@@ -1,9 +1,15 @@
 {
-  "name": "eslint-config",
+  "name": "@explowstudio/eslint-config",
   "version": "1.0.0",
   "main": "next.js",
-  "author": "Gabriel Teodoro",
+  "author": "Gabriel Teodoro <oi@gabrielteodoro.com>",
   "license": "MIT",
+  "private": false,
+  "keywords": [
+    "eslint-config",
+    "eslint-config-react"
+  ],
+  "description": "eslint-config used by Explow.",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",
     "@next/eslint-plugin-next": "^13.4.8",

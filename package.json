@@ -9,6 +9,9 @@
     "eslint-config",
     "eslint-config-react"
   ],
+  "repository": {
+    "url": "git+https://github.com/explowstudio/eslint-config.git"
+  },
   "description": "eslint-config used by Explow.",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.50.0",

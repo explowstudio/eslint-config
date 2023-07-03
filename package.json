@@ -1,6 +1,6 @@
 {
   "name": "@explowstudio/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "next.js",
   "author": "Gabriel Teodoro <oi@gabrielteodoro.com>",
   "license": "MIT",

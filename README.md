@@ -4,7 +4,6 @@
 - React hooks plugin;
 - React plugin;
 - Prettier;
-- JSX a11y plugin;
 
 ## How to use
 
